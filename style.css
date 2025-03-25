@@ -20,7 +20,7 @@ p{
 }
 
 main{
-   margin-left:50px;
+   margin-left:150px;
 }
 nav a{
     position: absolute;
@@ -52,4 +52,11 @@ nav a:hover{
 .contact{
     top: 200px;
     background-color: #555 ;
+}
+iframe{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+ 
 }
